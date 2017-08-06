@@ -2,4 +2,4 @@
 
 ## This is my personal website
 
-Find my resume at [here](https://dhavalsavalia.me/resume.pdf)
+Find my resume [here](https://dhavalsavalia.me/resume.pdf)
