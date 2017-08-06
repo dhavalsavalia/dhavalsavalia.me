@@ -10,6 +10,11 @@ body {
     margin-bottom: 0;
 }
 
+p {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
 .bio {
     font-family: 'Ubuntu', sans-serif;
     font-size: 15px;
